@@ -1,0 +1,1232 @@
+{
+  "talents": [
+    {
+      "nom": "Absentéisme",
+      "description": "Le Pokémon n'a pas la possibilité d'attaquer un tour sur deux."
+    },
+    {
+      "nom": "Absorbe-Eau",
+      "description": "Immunité contre les capacités detype Eau: elles soignent jusqu'à 25 % des PV maximum du Pokémon."
+    },
+    {
+      "nom": "Absorbe-Volt",
+      "description": "Immunité contre les capacités detype Électrik: elles soignent jusqu'à 25 % des PV maximum du Pokémon."
+    },
+    {
+      "nom": "Agitation",
+      "description": "Lastatistiqued'Attaquedu Pokémon augmente de 50 %.Lescapacités physiquesdu Pokémon ont leurPrécisiondiminuée de 20 %."
+    },
+    {
+      "nom": "Air Lock",
+      "description": "Annule les effets duclimat."
+    },
+    {
+      "nom": "Anti-Bruit",
+      "description": "Immunité contre lescapacités sonores."
+    },
+    {
+      "nom": "Armumagma",
+      "description": "Immunité contre lestatutgel."
+    },
+    {
+      "nom": "Armurbaston",
+      "description": "Lescoups critiquessont impossibles pour le Pokémon ennemi."
+    },
+    {
+      "nom": "Attention",
+      "description": "Immunité contre lapeuret contre l'intimidation."
+    },
+    {
+      "nom": "Benêt",
+      "description": "Immunité contre l'attraction, contre laprovocationet contre l'intimidation."
+    },
+    {
+      "nom": "Brasier",
+      "description": "Augmente la puissance des capacités detype Feulorsque le Pokémon a moins d'1/3 de ses PV."
+    },
+    {
+      "nom": "Cacophonie",
+      "description": "Immunité contre lescapacités sonores.[note 1]"
+    },
+    {
+      "nom": "Calque",
+      "description": "Change letalentdu Pokémon en celui d'un Pokémon adverse."
+    },
+    {
+      "nom": "Chlorophylle",
+      "description": "Sous leclimatsoleil, laVitessedu Pokémon est doublée."
+    },
+    {
+      "nom": "Ciel Gris",
+      "description": "Annule les effets duclimat."
+    },
+    {
+      "nom": "Coloforce",
+      "description": "Lastatistiqued'Attaquedu Pokémon est doublée."
+    },
+    {
+      "nom": "Coque Armure",
+      "description": "Lescoups critiquessont impossibles pour le Pokémon ennemi."
+    },
+    {
+      "nom": "Corps Ardent",
+      "description": "Lescapacités directesreçues ont 30 % de chances de donner lestatutbrûlureà leur lanceur."
+    },
+    {
+      "nom": "Corps Sain",
+      "description": "Immunité contre la diminution destatistiquesdu Pokémon imposée par un autre."
+    },
+    {
+      "nom": "Crachin",
+      "description": "Active leclimatpluielorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Cran",
+      "description": "Avec unstatutaltéré, l'Attaquedu Pokémon augmente de 50 %.Immunité contre la diminution de l'Attaquedu Pokémon imposée par lestatutbrûlure."
+    },
+    {
+      "nom": "Cuvette",
+      "description": "Sous leclimatpluie, le Pokémon régénère1/16de ses PV maximum à chaque fin de tour."
+    },
+    {
+      "nom": "Homochromie",
+      "description": "Change letypedu Pokémon en celui de la dernière capacité offensive subie."
+    },
+    {
+      "nom": "Écaille Spéciale",
+      "description": "Avec unstatutaltéré, laDéfensedu Pokémon augmente de 50 %."
+    },
+    {
+      "nom": "Échauffement",
+      "description": "Immunité contre lestatutparalysie."
+    },
+    {
+      "nom": "Écran Fumée",
+      "description": "Immunité contre la diminution destatistiquesdu Pokémon imposée par un autre."
+    },
+    {
+      "nom": "Écran Poudre",
+      "description": "Les effets secondaires des capacités ennemies sont annulés."
+    },
+    {
+      "nom": "Engrais",
+      "description": "Augmente la puissance des capacités detype Plantelorsque le Pokémon a moins d'1/3 de ses PV."
+    },
+    {
+      "nom": "Esprit Vital",
+      "description": "Immunité contre lestatutsommeil."
+    },
+    {
+      "nom": "Essaim",
+      "description": "Augmente la puissance des capacités detype Insectelorsque le Pokémon a moins d'1/3 de ses PV."
+    },
+    {
+      "nom": "Fermeté",
+      "description": "Immunité contre les capacitésOHKO: le Pokémon résistera et gardera 1 PV s'il avait tous ses PV avant l'attaque."
+    },
+    {
+      "nom": "Force Pure",
+      "description": "Lastatistiqued'Attaquedu Pokémon est doublée."
+    },
+    {
+      "nom": "Fuite",
+      "description": "Lafuitedu Pokémon contre unPokémon sauvageest garantie."
+    },
+    {
+      "nom": "Garde Mystik",
+      "description": "Immunité contre les capacités offensives qui ne sont passuper efficaces, saufLutte."
+    },
+    {
+      "nom": "Glissade",
+      "description": "Sous leclimatpluie, laVitessedu Pokémon est doublée."
+    },
+    {
+      "nom": "Glu",
+      "description": "L'objet tenu ne peut pas être perdu."
+    },
+    {
+      "nom": "Hyper Cutter",
+      "description": "Immunité contre la diminution de l'Attaquedu Pokémon."
+    },
+    {
+      "nom": "Ignifu-Voile",
+      "description": "Immunité contre lestatutbrûlure."
+    },
+    {
+      "nom": "Insomnia",
+      "description": "Immunité contre lestatutsommeil."
+    },
+    {
+      "nom": "Intimidation",
+      "description": "La statistique d'Attaque du Pokémon adverse baisse lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Isograisse",
+      "description": "Diminue les dégâts subits par les capacités detype Feuet detype Glace."
+    },
+    {
+      "nom": "Joli Sourire",
+      "description": "Lescapacités directesreçues ont 30 % de chances de donner lestatutattractionà leur lanceur de sexe opposé."
+    },
+    {
+      "nom": "Lévitation",
+      "description": "Immunité contre les capacités detype Sol.Immunité contre leschamps.Immunité contreFertilisation,Picots,Pics Toxik,Piège SableetToile Gluante."
+    },
+    {
+      "nom": "Luminescence",
+      "description": "—"
+    },
+    {
+      "nom": "Magnépiège",
+      "description": "Lafuiteou leswitchd'un Pokémon adverse detype Acierest impossible."
+    },
+    {
+      "nom": "Marque Ombre",
+      "description": "Lafuiteou leswitchd'un Pokémon adverse est impossible."
+    },
+    {
+      "nom": "Matinal",
+      "description": "Le Pokémon se réveille deux fois plus rapidement."
+    },
+    {
+      "nom": "Médic Nature",
+      "description": "Le Pokémon soigne ses altérations destatuts'ilswitchou en fin de combat."
+    },
+    {
+      "nom": "Météo",
+      "description": "Change la forme deMorphéoselon leclimat."
+    },
+    {
+      "nom": "Moins",
+      "description": "Lastatistiqued'Attaque Spécialedu Pokémon augmente de 50 % si un allié enCombat Duoa le talentPlusouMoins."
+    },
+    {
+      "nom": "Moiteur",
+      "description": "Le Pokémon adverse n'a pas la possibilité d'utiliser une capacité auto-destructrice."
+    },
+    {
+      "nom": "Mue",
+      "description": "Le Pokémon soigne ses altérations destatutà chaque tour. (1 chance sur 3)"
+    },
+    {
+      "nom": "Œil Composé",
+      "description": "LastatistiquedePrécisiondu Pokémon augmente de 30 %."
+    },
+    {
+      "nom": "Paratonnerre",
+      "description": "Immunité contre les capacités detype Électrik: elles augmentent d'un niveau l'Attaque Spécialedu Pokémon.Les capacités detype Électrikutilisées par un Pokémon adjacent touchent obligatoirement ce Pokémon."
+    },
+    {
+      "nom": "Peau Dure",
+      "description": "Lescapacités directesreçues font perdre1/8des PV maximum du lanceur."
+    },
+    {
+      "nom": "Piège Sable",
+      "description": "Lafuiteou leswitchd'un Pokémon adverse ne volant pas est impossible."
+    },
+    {
+      "nom": "Plus",
+      "description": "Lastatistiqued'Attaque Spécialedu Pokémon augmente de 50 % si un allié enCombat Duoa le talentPlusouMoins."
+    },
+    {
+      "nom": "Point Poison",
+      "description": "Lescapacités directesreçues ont 30 % de chances de donner lestatutpoisonà leur lanceur."
+    },
+    {
+      "nom": "Pose Spore",
+      "description": "Lescapacités directesreçues ont 30 % de chances de donner lestatutpoison,paralysieousommeilà leur lanceur."
+    },
+    {
+      "nom": "Pression",
+      "description": "Le Pokémon adverse consomme deux fois plus de PP lorsqu'il utilise une capacité offensive."
+    },
+    {
+      "nom": "Puanteur",
+      "description": "Les capacités physiques du Pokémon ont 10 % de chances d'apeurer la cible."
+    },
+    {
+      "nom": "Ramassage",
+      "description": "Après un combat, le Pokémon a une chance deramasser un objet."
+    },
+    {
+      "nom": "Regard Vif",
+      "description": "Immunité contre la diminution de laPrécisiondu Pokémon."
+    },
+    {
+      "nom": "Sable Volant",
+      "description": "Active leclimattempête de sablelorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Sécheresse",
+      "description": "Active leclimatsoleillorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Sérénité",
+      "description": "Les effets secondaires des capacités du Pokémon ont leurs chances doublées."
+    },
+    {
+      "nom": "Statik",
+      "description": "Lescapacités directesreçues ont 30 % de chances de donner lestatutparalysieà leur lanceur."
+    },
+    {
+      "nom": "Suintement",
+      "description": "Inflige des dégâts au lieu de redonner des PV lorsque le Pokémon adverse utilise une capacité drainant des PV."
+    },
+    {
+      "nom": "Synchro",
+      "description": "Le Pokémon adverse obtient la brûlure, l'empoisonnement ou la paralysie subie par le Pokémon."
+    },
+    {
+      "nom": "Tempo Perso",
+      "description": "Immunité contre laconfusionet contre l'intimidation."
+    },
+    {
+      "nom": "Tête de Roc",
+      "description": "Immunité contre lecontrecoup."
+    },
+    {
+      "nom": "Torche",
+      "description": "Immunité contre les capacités detype Feu: elles augmentent de 50 % la puissance des capacités detype Feudu Pokémon."
+    },
+    {
+      "nom": "Torrent",
+      "description": "Augmente la puissance des capacités detype Eaulorsque le Pokémon a moins d'1/3 de ses PV."
+    },
+    {
+      "nom": "Turbo",
+      "description": "LastatistiquedeVitessedu Pokémon augmente d'un niveau à chaque tour."
+    },
+    {
+      "nom": "Vaccin",
+      "description": "Immunité contre lestatutpoison."
+    },
+    {
+      "nom": "Ventouse",
+      "description": "Immunité contre leswitchforcé."
+    },
+    {
+      "nom": "Voile Sable",
+      "description": "Sous leclimattempête de sable, l'Esquivedu Pokémon augmente de 20 %.Immunité contre les dégâts de latempête de sable."
+    },
+    {
+      "nom": "Adaptabilité",
+      "description": "Augmente la puissance des capacitésSTAB."
+    },
+    {
+      "nom": "Alerte Neige",
+      "description": "Active leclimatgrêlelorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Annule Garde",
+      "description": "Les capacités du Pokémon et de l'adversaire ne peuvent pas échouer."
+    },
+    {
+      "nom": "Anticipation",
+      "description": "Détecte si le Pokémon adverse possède des capacités efficaces sur le Pokémon, des capacitésOHKOou les capacitésExplosionetDestruction."
+    },
+    {
+      "nom": "Boom Final",
+      "description": "Lescapacités directesreçues mettant K.O. le Pokémon font perdre 25 % des PV maximum du lanceur."
+    },
+    {
+      "nom": "Brise Moule",
+      "description": "Ignore les talents adverses ayant un effet sur les capacités du Pokémon."
+    },
+    {
+      "nom": "Chanceux",
+      "description": "Lescoups critiquesdu Pokémon ont une chance doublée."
+    },
+    {
+      "nom": "Cherche Miel",
+      "description": "Après un combat, le Pokémon a une chance deramasserduMiel."
+    },
+    {
+      "nom": "Colérique",
+      "description": "Lastatistiqued'Attaquedu Pokémon augmente de six niveaux s'il est touché par uncoup critique."
+    },
+    {
+      "nom": "Corps Gel",
+      "description": "Sous leclimatgrêle, le Pokémon régénère1/16de ses PV maximum à chaque fin de tour.Immunité contre les dégâts de lagrêle."
+    },
+    {
+      "nom": "Début Calme",
+      "description": "Lastatistiqued'Attaqueet deVitessedu Pokémon sont divisées par deux pendant 5 tours."
+    },
+    {
+      "nom": "Délestage",
+      "description": "LastatistiquedeVitessedu Pokémon est doublée s'il n'a plus d'objet tenu."
+    },
+    {
+      "nom": "Don Floral",
+      "description": "Sous leclimatsoleil, l'Attaqueet laDéfense Spécialedu Pokémon et de ses alliés augmentent de 50 %.Change la forme deCeriflorselon leclimat."
+    },
+    {
+      "nom": "Feuille Garde",
+      "description": "Sous leclimatsoleil, soigne le Pokémon des altériations destatutfutures."
+    },
+    {
+      "nom": "Filtre",
+      "description": "Diminue les dégâts subits par les capacités super efficaces."
+    },
+    {
+      "nom": "Force Soleil",
+      "description": "Sous leclimatsoleil, l'Attaque Spécialedu Pokémon augmente de 50 % mais il perd1/8de ses PV maximum à chaque fin de tour."
+    },
+    {
+      "nom": "Fouille",
+      "description": "Détecte l'objet tenu par le Pokémon adverse."
+    },
+    {
+      "nom": "Frein",
+      "description": "Le Pokémon n'a pas la possibilité d'attaquer en premier s'il n'a pas lapriorité."
+    },
+    {
+      "nom": "Garde Magik",
+      "description": "Immunité contre toutes les capacités qui ne sont pas directes."
+    },
+    {
+      "nom": "Gloutonnerie",
+      "description": "La Baie tenue peut être consommée lorsque les PV descendent en dessous de 50 % au lieu de 25 %."
+    },
+    {
+      "nom": "Hydratation",
+      "description": "Sous leclimatpluie, soigne le Pokémon des altériations destatutpassées et futures."
+    },
+    {
+      "nom": "Ignifugé",
+      "description": "Diminue les dégâts subits par les capacités detype Feuet par les effets de brûlure."
+    },
+    {
+      "nom": "Impassible",
+      "description": "Avec unstatutapeuré, laVitessedu Pokémon augmente d'un niveau."
+    },
+    {
+      "nom": "Inconscient",
+      "description": "Ignore les améliorations de statistiques du Pokémon adverse, à l'exception de sa Vitesse."
+    },
+    {
+      "nom": "Lavabo",
+      "description": "Immunité contre les capacités detype Eau: elles augmentent d'un niveau l'Attaque Spécialedu Pokémon.Les capacités detype Eauutilisées par un Pokémon adjacent touchent obligatoirement ce Pokémon."
+    },
+    {
+      "nom": "Lentiteintée",
+      "description": "Augmente la puissance des capacités peu efficaces sur le Pokémon adverse."
+    },
+    {
+      "nom": "Maladresse",
+      "description": "L'objet tenu ne peut pas être utilisé."
+    },
+    {
+      "nom": "Mauvais Rêve",
+      "description": "Inflige 1/8ede ses PV au Pokémon adverse s'il estendormi."
+    },
+    {
+      "nom": "Motorisé",
+      "description": "Immunité contre les capacités detype Électrik: elles augmentent d'un niveau laVitessedu Pokémon."
+    },
+    {
+      "nom": "Multi-Coups",
+      "description": "Les capacités du Pokémon frappent toujours le nombre de coups maximum."
+    },
+    {
+      "nom": "Multi-Type",
+      "description": "Change la forme d'Arceusselon laPlaquetenue."
+    },
+    {
+      "nom": "Normalise",
+      "description": "Change le type des capacités du Pokémon et les considère comme étant de type Normal."
+    },
+    {
+      "nom": "Peau Sèche",
+      "description": "Sous leclimatsoleil, le Pokémon perd1/8de ses PV maximum à chaque fin de tour.Sous leclimatpluie, le Pokémon régénère1/8de ses PV maximum à chaque fin de tour.Les capacités detype Feuinfligent 25 % de dégâts supplémentaires au Pokémon.Immunité contre les capacités detype Eau: elles soignent jusqu'à 25 % des PV maximum du Pokémon."
+    },
+    {
+      "nom": "Pied Confus",
+      "description": "Avec unstatutconfus, l'Esquivedu Pokémon augmente de 50 %."
+    },
+    {
+      "nom": "Pied Véloce",
+      "description": "Avec unstatutaltéré, laVitessedu Pokémon augmente de 50 %.Immunité contre la diminution de laVitessedu Pokémon imposée par lestatutparalysie."
+    },
+    {
+      "nom": "Poing de Fer",
+      "description": "Augmente la puissance descapacités coups de poing."
+    },
+    {
+      "nom": "Prédiction",
+      "description": "Détecte la capacité la plus puissante du Pokémon adverse."
+    },
+    {
+      "nom": "Querelleur",
+      "description": "Ignore les immunités du type Spectre du Pokémon adverse. Il devient donc possible de toucher un Pokémon de ce type avec des capacités de type Normal ou Combat."
+    },
+    {
+      "nom": "Rideau Neige",
+      "description": "Sous leclimatgrêle, l'Esquivedu Pokémon augmente de 20 %.Immunité contre les dégâts de lagrêle."
+    },
+    {
+      "nom": "Rivalité",
+      "description": "Augmente la puissance des capacités si le Pokémon adverse est du même sexe, mais la diminue s'il est du sexe opposé."
+    },
+    {
+      "nom": "Simple",
+      "description": "Les effets des modifications de statistiques du Pokémon sont doublés, qu'ils soient positifs ou négatifs."
+    },
+    {
+      "nom": "Sniper",
+      "description": "Lescoups critiquesdu Pokémon ont une puissance triplée."
+    },
+    {
+      "nom": "Soin Poison",
+      "description": "Avec unstatutempoisonnéougravement empoisonné, le Pokémon régénère1/8de ses PV maximum au lieu d'en perdre."
+    },
+    {
+      "nom": "Solide Roc",
+      "description": "Diminue les dégâts subits par les capacités super efficaces."
+    },
+    {
+      "nom": "Technicien",
+      "description": "Augmente la puissance des capacités infligeant. 60 dégâts ou moins."
+    },
+    {
+      "nom": "Télécharge",
+      "description": "Augmente soit l'Attaque, soit l'Attaque Spéciale en fonction de la statistique de défense la plus faible du Pokémon adverse."
+    },
+    {
+      "nom": "Téméraire",
+      "description": "Augmente la puissance descapacités à contrecoup, saufLutte."
+    },
+    {
+      "nom": "Acharné",
+      "description": "Lastatistiqued'Attaquedu Pokémon augmente de deux niveaux s'il subit une diminution destatistiquespar un adversaire."
+    },
+    {
+      "nom": "Analyste",
+      "description": "Augmente la puissance des capacités si le Pokémon frappe en dernier durant le tour."
+    },
+    {
+      "nom": "Armurouillée",
+      "description": "La statistique de Défense du Pokémon diminue d'un niveau et sa Vitesse augmente de deux lorsqu'il est touché par une capacité physique."
+    },
+    {
+      "nom": "Baigne Sable",
+      "description": "Sous leclimattempête de sable, laVitessedu Pokémon est doublée.Immunité contre les dégâts de latempête de sable."
+    },
+    {
+      "nom": "Cœur de Coq",
+      "description": "Immunité contre la diminution de laDéfensedu Pokémon."
+    },
+    {
+      "nom": "Cœur Noble",
+      "description": "Lastatistiqued'Attaquedu Pokémon augmente d'un niveau s'il est touché par unecapacitédetype Ténèbres."
+    },
+    {
+      "nom": "Cœur Soin",
+      "description": "Le Pokémon soigne les altérations destatutd'un allié adjacent. (30 % de chance)"
+    },
+    {
+      "nom": "Contestation",
+      "description": "Les effets des changements de statistiques sont inversés."
+    },
+    {
+      "nom": "Corps Maudit",
+      "description": "Les capacités du Pokémon adverse ont 30 % de chances de s'entraver."
+    },
+    {
+      "nom": "Défaitiste",
+      "description": "Lastatistiqued'Attaqueet d'Attaque Spécialedu Pokémon sont divisées par deux s'il a moins de 50 % de ses PV."
+    },
+    {
+      "nom": "Envelocape",
+      "description": "Immunité contre les dégâts de lagrêleet de latempête de sable.Immunité contre lescapacités poudreuseset le talentPose Spore."
+    },
+    {
+      "nom": "Épine de Fer",
+      "description": "Lescapacités directesreçues font perdre1/8des PV maximum du lanceur."
+    },
+    {
+      "nom": "Farceur",
+      "description": "Laprioritédescapacités de statutaugmente d'un niveau."
+    },
+    {
+      "nom": "Force Sable",
+      "description": "Sous leclimattempête de sable, la puissance des capacités detype Acier,RocheetSoldu Pokémon augmente de 30 %.Immunité contre les dégâts de latempête de sable."
+    },
+    {
+      "nom": "Garde-Ami",
+      "description": "Diminue les dégâts subits par les alliés."
+    },
+    {
+      "nom": "Heavy Metal",
+      "description": "Lepoidsdu Pokémon est doublé."
+    },
+    {
+      "nom": "Herbivore",
+      "description": "Immunité contre les capacités detype Plante: elles augmentent d'un niveau l'Attaquedu Pokémon."
+    },
+    {
+      "nom": "Illusion",
+      "description": "Change l'apparence du Pokémon en celle du dernier Pokémon de l'équipe lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Imposteur",
+      "description": "Transforme le Pokémon de façon à imiter le Pokémon adverse lors de son entrée au combat."
+    },
+    {
+      "nom": "Impudence",
+      "description": "Lastatistiqued'Attaquedu Pokémon augmente d'un niveau s'il met un Pokémon K.O."
+    },
+    {
+      "nom": "Infiltration",
+      "description": "Ignore les capacités de protection adverses, saufDétectionetAbri."
+    },
+    {
+      "nom": "Light Metal",
+      "description": "Lepoidsdu Pokémon est divisé par deux."
+    },
+    {
+      "nom": "Lunatique",
+      "description": "Augmente aléatoirement une statistique du Pokémon de deux niveaux et en baisse une autre d'un niveau à chaque tour. La Précision et l'Esquive sont comprises."
+    },
+    {
+      "nom": "Miroir Magik",
+      "description": "Les capacités de statut sont retournées contre le Pokémon adverse."
+    },
+    {
+      "nom": "Mode Transe",
+      "description": "Change la forme deDarumachosi ses PV sont inférieurs à 50 % du maximum."
+    },
+    {
+      "nom": "Momie",
+      "description": "Remplace le talent de l'adversaire attaquant par Momie lorsque le détenteur subit une attaque directe."
+    },
+    {
+      "nom": "Multiécaille",
+      "description": "Diminue les dégâts subits par les capacités offensives si le Pokémon a tous ses PV."
+    },
+    {
+      "nom": "Peau Miracle",
+      "description": "Les capacités de statut du Pokémon adverse ont une chance sur deux d'échouer."
+    },
+    {
+      "nom": "Phobique",
+      "description": "LastatistiquedeVitessedu Pokémon augmente d'un niveau s'il est touché par unecapacitédetype Insecte,SpectreouTénèbres."
+    },
+    {
+      "nom": "Pickpocket",
+      "description": "Lescapacités directesreçues font voler au Pokémon l'objet tenu du lanceur."
+    },
+    {
+      "nom": "Rage Brûlure",
+      "description": "Lastatistiqued'Attaque Spécialedu Pokémon augmente de 50 % s'il estbrûlé."
+    },
+    {
+      "nom": "Rage Poison",
+      "description": "Lastatistiqued'Attaquedu Pokémon augmente de 50 % s'il estempoisonné."
+    },
+    {
+      "nom": "Récolte",
+      "description": "La Baie consommée a 50 % de chances d'être récupérée à la fin du tour."
+    },
+    {
+      "nom": "Régé-Force",
+      "description": "Le Pokémon soigne1/3de ses PV s'ilswitch."
+    },
+    {
+      "nom": "Sans Limite",
+      "description": "Augmente la puissance des capacités pouvant avoir un effet secondaire, mais annule ce dernier."
+    },
+    {
+      "nom": "Télépathe",
+      "description": "Immunité contre les capacités des alliés enCombat DuoouTrio."
+    },
+    {
+      "nom": "Tension",
+      "description": "La Baie tenue par le Pokémon adverse ne peut pas être consommée tant que le Pokémon est sur le terrain."
+    },
+    {
+      "nom": "Téra-Voltage",
+      "description": "Ignore les talents adverses ayant un effet sur les capacités du Pokémon."
+    },
+    {
+      "nom": "Toxitouche",
+      "description": "Lescapacités directesenvoyées ont 30 % de chances de donner lestatutpoisonà leur cible."
+    },
+    {
+      "nom": "Turbo Brasier",
+      "description": "Ignore les talents adverses ayant un effet sur les capacités du Pokémon."
+    },
+    {
+      "nom": "Victorieux",
+      "description": "LastatistiquedePrécisiondu Pokémon et de ses alliés augmente de 10 %."
+    },
+    {
+      "nom": "Ailes Bourrasque",
+      "description": "Laprioritédescapacitésdetype Volaugmente d'un niveau."
+    },
+    {
+      "nom": "Amour Filial",
+      "description": "Les capacités du Pokémon frappe deux fois par tour au lieu d'un, mais le deuxième coup fait deux fois moins de dégâts que le premier."
+    },
+    {
+      "nom": "Aroma-Voile",
+      "description": "Immunité contre les attaques limitant le choix des capacités pour le Pokémon et ses alliés sur le terrain."
+    },
+    {
+      "nom": "Aura Féérique",
+      "description": "Augmente la puissance des capacités detype Fée."
+    },
+    {
+      "nom": "Aura Inversée",
+      "description": "Diminue la puissance des capacités detype FéequandAura Féériqueest actif.Diminue la puissance des capacités detype TénèbresquandAura Ténébreuseest actif."
+    },
+    {
+      "nom": "Aura Ténébreuse",
+      "description": "Augmente la puissance des capacités detype Ténèbres."
+    },
+    {
+      "nom": "Bajoues",
+      "description": "La Baie tenue permet aussi de récupérer 1/3 de ses PV totaux."
+    },
+    {
+      "nom": "Battant",
+      "description": "Lastatistiqued'Attaque Spécialedu Pokémon augmente de deux niveaux s'il subit une diminution destatistiquespar un adversaire."
+    },
+    {
+      "nom": "Déclic Tactique",
+      "description": "Change la forme d'Exagideselon lescapacitésqu'il utilise."
+    },
+    {
+      "nom": "Flora-Voile",
+      "description": "Immunité contre la diminution destatistiquesdu Pokémon et des alliés detype Planteimposée par un autre."
+    },
+    {
+      "nom": "Gluco-Voile",
+      "description": "Immunité contre lestatutsommeilpour le Pokémon et ses alliés."
+    },
+    {
+      "nom": "Griffe Dure",
+      "description": "Lescapacités directesutilisées par le Pokémon infligent 30 % de dégâts supplémentaires."
+    },
+    {
+      "nom": "Magicien",
+      "description": "L'objet tenu par le Pokémon adverse est volé lorsque le Pokémon le touche avec une capacité directe."
+    },
+    {
+      "nom": "Méga Blaster",
+      "description": "Augmente la puissance des capacités d'aura."
+    },
+    {
+      "nom": "Pare-Balles",
+      "description": "Immunité contre lescapacités à projectiles."
+    },
+    {
+      "nom": "Peau Céleste",
+      "description": "Change le type des capacités detype Normaldu Pokémon et les considère comme étant detype Vol. Augmente la puissance de ces capacités."
+    },
+    {
+      "nom": "Peau Féérique",
+      "description": "Change le type des capacités detype Normaldu Pokémon et les considère comme étant detype Fée. Augmente la puissance de ces capacités."
+    },
+    {
+      "nom": "Peau Gelée",
+      "description": "Change le type des capacités detype Normaldu Pokémon et les considère comme étant detype Glace. Augmente la puissance de ces capacités."
+    },
+    {
+      "nom": "Poisseux",
+      "description": "Lescapacités directesreçues font diminuer la Vitesse du lanceur."
+    },
+    {
+      "nom": "Prognathe",
+      "description": "Augmente la puissance descapacités à base de morsures."
+    },
+    {
+      "nom": "Protéen",
+      "description": "Change letypedu Pokémon en celui de toute capacité qu'il utilise."
+    },
+    {
+      "nom": "Symbiose",
+      "description": "L'objet tenu est donné à l'allié lorsque ce dernier utilise le sien."
+    },
+    {
+      "nom": "Toison Épaisse",
+      "description": "LastatistiquedeDéfensedu Pokémon est doublée."
+    },
+    {
+      "nom": "Toison Herbue",
+      "description": "Sous unChamp Herbu, laDéfensedu Pokémon augmente de 50 %."
+    },
+    {
+      "nom": "Mer Primaire",
+      "description": "Active leclimatpluie battantelorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Souffle Delta",
+      "description": "Active leclimatvent mystérieuxlorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Terre Finale",
+      "description": "Active leclimatsoleil intenselorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Animacœur",
+      "description": "Lastatistiqued'Attaque Spécialedu Pokémon augmente d'un niveau si un Pokémon est mis K.O."
+    },
+    {
+      "nom": "Aquabulle",
+      "description": "Diminue les dégâts subits par les capacités detype Feu.Augmente la puissance des capacités detype Eau.Immunité austatutbrûlure."
+    },
+    {
+      "nom": "Banc",
+      "description": "Change la forme deFroussardinesi ses PV sont supérieurs à 25 % du maximum."
+    },
+    {
+      "nom": "Batterie",
+      "description": "Augmente la puissance descapacités spécialesdes alliés."
+    },
+    {
+      "nom": "Boost Chimère",
+      "description": "Lastatistiquela plus élevée du Pokémon augmente d'un niveau s'il met un Pokémon K.O."
+    },
+    {
+      "nom": "Bouclier-Carcan",
+      "description": "Change la forme deMéténolorsque sesPVdescendent sous les 50 %.Immunité aux capacités de statut lorsqu'il est sous sa forme Météore. Il perd cette immunité lorsqu'il change de forme."
+    },
+    {
+      "nom": "Boule de Poils",
+      "description": "Diminue les dégâts subits par lescapacités directesqui ne sont pas detype Feu.Augmente les dégâts subits par les capacités de type Feu."
+    },
+    {
+      "nom": "Chasse-Neige",
+      "description": "Sous leclimatgrêle, laVitessedu Pokémon est doublée."
+    },
+    {
+      "nom": "Corps Coloré",
+      "description": "Le Pokémon adverse n'a pas la possibilité d'utiliser une capacité depriorité."
+    },
+    {
+      "nom": "Corrosion",
+      "description": "Ignore l'immunité à l'empoisonnement des types Acier et Poison."
+    },
+    {
+      "nom": "Créa-Brume",
+      "description": "Active unChamp Brumeuxlorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Créa-Élec",
+      "description": "Active unChamp Électrifiélorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Créa-Herbe",
+      "description": "Active unChamp Herbulorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Créa-Psy",
+      "description": "Active unChamp Psychiquelorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Cruauté",
+      "description": "Lescoups critiquessont systémiques contre un ennemiempoisonné."
+    },
+    {
+      "nom": "Danseuse",
+      "description": "Permet d'utiliser les capacités de danse utilisées par les autres Pokémon."
+    },
+    {
+      "nom": "Endurance",
+      "description": "LastatistiquedeDéfensedu Pokémon augmente d'un niveau s'il est touché par unecapacitéoffensive."
+    },
+    {
+      "nom": "Escampette",
+      "description": "Lafuiteou leswitchdu Pokémon est automatique s'il a moins de 50 % de ses PV."
+    },
+    {
+      "nom": "Expert Acier",
+      "description": "Augmente la puissance des capacités detype Acier."
+    },
+    {
+      "nom": "Expuls'Organes",
+      "description": "Inflige à l'adversaire des dégâts équivalents au nombre de PV qu'il restait au Pokémon avant d'être mis K.O."
+    },
+    {
+      "nom": "Fantômasque",
+      "description": "Change la forme deMimiquiaprès les premiers dégâts encaissés."
+    },
+    {
+      "nom": "Filature",
+      "description": "Augmente la puissance des capacités des Pokémon arrivant au milieu d'un combat."
+    },
+    {
+      "nom": "Folle Furie",
+      "description": "Lastatistiqued'Attaque Spécialedu Pokémon augmente d'un niveau s'il passe en dessous de 50 % de ses PV."
+    },
+    {
+      "nom": "Hydrata-Son",
+      "description": "Lescapacités sonoresdu Pokémon deviennent detype Eau."
+    },
+    {
+      "nom": "Hypersommeil",
+      "description": "Immunité contre lesstatuts, sauf lesommeil, car le Pokémon est endormi en tout temps. Il peut attaquer normalement malgré cela."
+    },
+    {
+      "nom": "Longue Portée",
+      "description": "Les capacités du Pokémon sont toutes considérées comme étant sans contact."
+    },
+    {
+      "nom": "Mèche Rebelle",
+      "description": "La statistique de Vitesse de l'attaquant diminue lorsque le Pokémon subit une attaque directe."
+    },
+    {
+      "nom": "Métallo-Garde",
+      "description": "Immunité contre la diminution destatistiquesdu Pokémon imposée par un autre."
+    },
+    {
+      "nom": "Osmose",
+      "description": "Change letalentdu Pokémon en celui d'un allié mis K.O."
+    },
+    {
+      "nom": "Peau Électrique",
+      "description": "Change le type des capacités detype Normaldu Pokémon et les considère comme étant detype Électrik. Augmente la puissance de ces capacités."
+    },
+    {
+      "nom": "Prestance Royale",
+      "description": "Le Pokémon adverse n'a pas la possibilité d'utiliser une capacité depriorité."
+    },
+    {
+      "nom": "Prioguérison",
+      "description": "Laprioritédescapacitésde soin augmente de trois niveaux."
+    },
+    {
+      "nom": "Prisme-Armure",
+      "description": "Diminue les dégâts subits par les capacités super efficaces."
+    },
+    {
+      "nom": "Rassemblement",
+      "description": "Change la forme deZygardesi ses PV sont inférieurs à 50 % du maximum."
+    },
+    {
+      "nom": "Receveur",
+      "description": "Change letalentdu Pokémon en celui d'un allié mis K.O."
+    },
+    {
+      "nom": "Repli Tactique",
+      "description": "Lafuiteou leswitchdu Pokémon est automatique s'il a moins de 50 % de ses PV."
+    },
+    {
+      "nom": "Sable Humide",
+      "description": "LastatistiquedeDéfensedu Pokémon augmente de deux niveaux s'il est touché par unecapacitédetype Eau."
+    },
+    {
+      "nom": "Spectro-Bouclier",
+      "description": "Diminue les dégâts subits par les capacités offensives si le Pokémon a tous ses PV."
+    },
+    {
+      "nom": "Surf Caudal",
+      "description": "Sous unChamp Électrifié, laVitessedu Pokémon est doublée."
+    },
+    {
+      "nom": "Synergie",
+      "description": "Change la forme d'Amphinobiaprès avoir vaincu un adversaire."
+    },
+    {
+      "nom": "Système Alpha",
+      "description": "Change la forme deSilvalliéselon laROMtenue."
+    },
+    {
+      "nom": "Cérébro-Force",
+      "description": "Augmente la puissance des capacitéssuper efficaces."
+    },
+    {
+      "nom": "Âme Vagabonde",
+      "description": "Remplace le talent du Pokémon adverse par Âme Vagabonde et prend possession de son ancien lorsque le Pokémon subit une capacité directe."
+    },
+    {
+      "nom": "Armure Miroir",
+      "description": "Les effets réducteurs de statistiques sont renvoyés au Pokémon adverse."
+    },
+    {
+      "nom": "Boost Acier",
+      "description": "Augmente la puissance des capacités de type Acier du Pokémon et de ses alliés."
+    },
+    {
+      "nom": "Brise-Barrière",
+      "description": "Annule les effets de Mur Lumière, Protection et Voile Aurore pour tous les Pokémon lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Cercle d'Énergie",
+      "description": "Augmente la puissance des capacités des alliés du Pokémon se trouvant sur le terrain."
+    },
+    {
+      "nom": "Corps Condamné",
+      "description": "Force le Pokémon et l'adversaire à tomber K.O. trois tours après que le Pokémon a été touché par une capacité directe, à moins qu'ils ne soient remplacés entre temps."
+    },
+    {
+      "nom": "Déclic Fringale",
+      "description": "Change la forme deMorpekoentre chaque tour.Change letypedeRoue Libreentre chaque tour."
+    },
+    {
+      "nom": "Dégobage",
+      "description": "Change la forme de Nigosier lorsqu'il utilise la capacitéSurfouPlongée. S'il subit des dégâts par la suite, il recrache ce qu'il a dans le bec sur le Pokémon adverse."
+    },
+    {
+      "nom": "Écailles Glacées",
+      "description": "Diminue les dégâts subits par les capacités spéciales."
+    },
+    {
+      "nom": "Effilochage",
+      "description": "La statistique de Vitesse du Pokémon adverse diminue lorsque le Pokémon est touché par une capacité."
+    },
+    {
+      "nom": "Égide Inflexible",
+      "description": "LastatistiquedeDéfensedu Pokémon augmente d'un niveau en entrant sur le terrain."
+    },
+    {
+      "nom": "Entêtement",
+      "description": "La statistique d'Attaqueest augmentée, mais il devient impossible d'utiliser toute autre capacité que celle utilisée en premier par le Pokémon."
+    },
+    {
+      "nom": "Expul'Sable",
+      "description": "Active leclimattempête de sablelorsque le Pokémon est touché par unecapacitéoffensive."
+    },
+    {
+      "nom": "Gaz Inhibiteur",
+      "description": "Annule les effets des talents des autres Pokémon."
+    },
+    {
+      "nom": "Lame Indomptable",
+      "description": "Lastatistiqued'Attaquedu Pokémon augmente d'un niveau en entrant sur le terrain."
+    },
+    {
+      "nom": "Libéro",
+      "description": "Change letypedu Pokémon en celui de toute capacité qu'il utilise."
+    },
+    {
+      "nom": "Mimétisme",
+      "description": "Change letypedu Pokémon en celui duchampactif."
+    },
+    {
+      "nom": "Mûrissement",
+      "description": "La Baie tenue a un effet doublé."
+    },
+    {
+      "nom": "Nerfs d'Acier",
+      "description": "Ignore les effets des capacités ou des talents attirant les capacités."
+    },
+    {
+      "nom": "Propulseur",
+      "description": "Ignore les effets des capacités ou des talents attirant les capacités."
+    },
+    {
+      "nom": "Punk Rock",
+      "description": "Augmente la puissance des capacités sonores. Le Pokémon ne subit que la moitié des dégâts quand il est touché par ce genre de capacités."
+    },
+    {
+      "nom": "Ramasse Ball",
+      "description": "L'objet Ball peut être récupéré si le Dresseur rate la capture d'un Pokémon sauvage et que le Pokémon ne tient pas d'objet. N'affecte que la première Ball perdue."
+    },
+    {
+      "nom": "Tête de Gel",
+      "description": "Change la forme deBekaglaçonaprès les premiers dégâts physiques encaissés.Rechange la forme deBekaglaçons'ilgrêle."
+    },
+    {
+      "nom": "Turbine",
+      "description": "LastatistiquedeVitessedu Pokémon augmente de six niveaux s'il est touché par unecapacitédetype FeuouEau."
+    },
+    {
+      "nom": "Voile Pastel",
+      "description": "Immunité contre l'empoisonnement pour le Pokémon et ses alliés sur le terrain."
+    },
+    {
+      "nom": "Poing Invisible",
+      "description": "Ignore les effets d'Abriet de ses équivalents (saufGardomax) si la capacité utilisée est physique."
+    },
+    {
+      "nom": "Tir Vif",
+      "description": "Les capacités du Pokémon ont 20 % de chances d'être prioritaires."
+    },
+    {
+      "nom": "Blanche Ruade",
+      "description": "Lastatistiqued'Attaquedu Pokémon augmente d'un niveau s'il met un Pokémon K.O."
+    },
+    {
+      "nom": "Breuvage Suspect",
+      "description": "Annule tous les changements de statistiques des alliés lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Dent de Dragon",
+      "description": "Augmente la puissance des capacités detype Dragon."
+    },
+    {
+      "nom": "Osmose Équine",
+      "description": "Combine les talentsTensionetBlanche Ruade. (Sylveroy, le Cavalier du Froid)Combine les talentsTensionetSombre Ruade. (Sylveroy, le Cavalier d'Effroi)"
+    },
+    {
+      "nom": "Sombre Ruade",
+      "description": "Lastatistiqued'Attaque Spécialedu Pokémon augmente d'un niveau s'il met un Pokémon K.O."
+    },
+    {
+      "nom": "Transistor",
+      "description": "Augmente la puissance des capacités detype Électrik."
+    },
+    {
+      "nom": "Absorbe-Terre",
+      "description": "Immunité contre les capacités detype Sol: elles soignent jusqu'à 25 % des PV maximum du Pokémon."
+    },
+    {
+      "nom": "Aéroporté",
+      "description": "La statistique d'Attaquedu Pokémon augmente si un vent arrière souffle ou s'il est touché par une capacité faisant appel au vent. Dans ce dernier cas, il ne subit aucun dégât."
+    },
+    {
+      "nom": "Armure Caudale",
+      "description": "Immunité contre les capacités prioritaires."
+    },
+    {
+      "nom": "Bien Cuit",
+      "description": "Immunité contre les capacités detype Feu: elles augmentent beaucoup laDéfensedu Pokémon."
+    },
+    {
+      "nom": "Bois du Fléau",
+      "description": "La statistique d'Attaquede tous les autres Pokémon diminue lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Charge Quantique",
+      "description": "La statistique la plus élevée du Pokémon augmente quand unChamp Électrifiéest actif ou qu'une capsule d'Énergie Boosterest tenue."
+    },
+    {
+      "nom": "Chien de Garde",
+      "description": "Immunité contre les capacités ou objets faisant changer de Pokémon.Immunité contre le talentIntimidation: la statistique d'Attaqueaugmente au lieu de diminuer."
+    },
+    {
+      "nom": "Collab",
+      "description": "Copie les changements de statistiques de l'allié lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Commandant",
+      "description": "Augmente toutes les statistiques de deux niveaux d'unOyacataallié se trouvant sur le terrain lorsque le Pokémon est envoyé au combat. Le Pokémonentre dans sa bouche."
+    },
+    {
+      "nom": "Corps en Or",
+      "description": "Immunité contre lescapacités de statut."
+    },
+    {
+      "nom": "Courroupace",
+      "description": "La statistique deDéfenseet deDéfense Spécialediminuent, mais la statistique d'Attaque, d'Attaque Spécialeet deVitesseaugmentent si le Pokémon a moins de la moitié de sesPVaprès avoir subi une attaque."
+    },
+    {
+      "nom": "Dépôt Toxique",
+      "description": "Pose des pics toxiques dans le camp adverse lorsque le Pokémon est touché par unecapacité physique."
+    },
+    {
+      "nom": "Épée du Fléau",
+      "description": "La statistique deDéfensede tous les autres Pokémon diminue lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Force Fongique",
+      "description": "Ignore les talents adverses, mais le Pokémon agit toujours plus lentement quand il utilise unecapacité de statut."
+    },
+    {
+      "nom": "Général Suprême",
+      "description": "La statistique d'Attaqueet d'Attaque Spécialeaugmentent de 10 % pour chaque allié mis K.O. avant l'arrivée du Pokémon sur le terrain."
+    },
+    {
+      "nom": "Grecharge",
+      "description": "Augmente la puissance de la prochaine capacité de type Électrik lorsque le Pokémon subit des dégâts."
+    },
+    {
+      "nom": "Incisif",
+      "description": "Augmente la puissance descapacités tranchantes."
+    },
+    {
+      "nom": "Moteur à Hadrons",
+      "description": "Active un Champ Électrifié lorsque le Pokémon est envoyé au combat.La statistique d'Attaque Spécialeaugmente si un Champ Électrifié est déjà actif."
+    },
+    {
+      "nom": "Odeur Tenace",
+      "description": "Remplace le talent de l'adversaire attaquant par Odeur Tenace lorsque le Pokémon subit une attaque directe."
+    },
+    {
+      "nom": "Opportuniste",
+      "description": "Augmente les statistiques du Pokémon de la même manière que le Pokémon adverse."
+    },
+    {
+      "nom": "Paléosynthèse",
+      "description": "La statistique la plus élevée du Pokémon augmente quand le soleil brille ou qu'une capsule d'Énergie Boosterest tenue."
+    },
+    {
+      "nom": "Perles du Fléau",
+      "description": "La statistique deDéfense Spécialede tous les autres Pokémon diminue lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Porte-Roche",
+      "description": "Augmente la puissance des capacités de typeRoche."
+    },
+    {
+      "nom": "Pouls Orichalque",
+      "description": "Active le climat soleil lorsque le Pokémon est envoyé au combat.La statistique d'Attaqueaugmente si le climat est déjà ensoleillé."
+    },
+    {
+      "nom": "Ruminant",
+      "description": "La Baie tenue peut être consommée une deuxième fois à la fin du tour suivant."
+    },
+    {
+      "nom": "Sel Purificateur",
+      "description": "Immunité contre les altérations de statut.Diminue de moitié les dégâts des capacités de typeSpectre."
+    },
+    {
+      "nom": "Semencier",
+      "description": "Active unChamp Herbulorsque le Pokémon subit une attaque."
+    },
+    {
+      "nom": "Supermutation",
+      "description": "Change la forme deSuperdofinlorsqu'il est retiré du combat."
+    },
+    {
+      "nom": "Thermodynamique",
+      "description": "Immunité contre les capacités detype Feu: elles augmentent l'Attaquedu Pokémon."
+    },
+    {
+      "nom": "Turbine Éolienne",
+      "description": "Augmente la puissance de la prochaine capacité de type Électrik lorsque le Pokémon est touché par une capacité faisant appel au vent."
+    },
+    {
+      "nom": "Urne du Fléau",
+      "description": "La statistique d'Attaque Spécialede tous les autres Pokémon diminue lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Aux Petits Soins",
+      "description": "Lorsqu'il entre en combat, le Pokémon restaure lesPVd'un allié."
+    },
+    {
+      "nom": "Chaîne Toxique",
+      "description": "Lescapacités directesreçues ont 30 % de chances de donner lestatutempoisonnement graveà leur lanceur."
+    },
+    {
+      "nom": "Force Mémorielle",
+      "description": "Une statistique augmente d'un cran lors de la téracristalisation selon le masque du Pokémon."
+    },
+    {
+      "nom": "Nectar Mielleux",
+      "description": "La statistique d'Esquivedes Pokémon adverses diminue lorsque le Pokémon est envoyé au combat."
+    },
+    {
+      "nom": "Œil Révélateur",
+      "description": "Ignore les immunités du type Spectre et les changements d'Esquivedu Pokémon adverse. Empêche aussi les diminutions dePrécisiondu Pokémon."
+    },
+    {
+      "nom": "Téramorphose",
+      "description": "Change la forme deTerapagosen entrant sur le terrain."
+    },
+    {
+      "nom": "Téra-Carapace",
+      "description": "Les capacités offensives reçues par le Pokémon sont toujours peu efficaces s'il a 100 % de ses PV."
+    },
+    {
+      "nom": "Téraformation 0",
+      "description": "Neutralise les effets desclimatsetchampsactifs en entrant sur le terrain."
+    },
+    {
+      "nom": "Emprise Toxique",
+      "description": "Avec unstatutempoisonnéobtenu autrement que via desPics Toxik, le Pokémon adverse devientconfus."
+    }
+  ]
+}
